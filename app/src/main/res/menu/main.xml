@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Customers"
+        android:id="@+id/customers"
+        android:icon="@drawable/person"/>
+    <item
+        android:title="Reporters"
+        android:id="@+id/reporters"
+        android:icon="@drawable/report"/>
+    <item
+        android:title="Profile"
+        android:icon="@drawable/perm"
+        android:id="@+id/profile"/>
+
+</menu>
